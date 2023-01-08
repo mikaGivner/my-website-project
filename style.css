@@ -136,45 +136,45 @@ max-width: 340px;
 .item1{
       grid-area: item1;
      
-      background: url("./gal4.jpeg") no-repeat center center/cover; 
+      background: url("./asset/gal4.jpeg") no-repeat center center/cover; 
     }
     .item2{
         grid-area: item2; 
-        background: url("./comu3.webp") no-repeat center center/cover; 
+        background: url("./asset/comu3.webp") no-repeat center center/cover; 
         
     }
     .item3{
         grid-area: item3; 
-        background: url("./comu5.webp") no-repeat center center/cover; 
+        background: url("./asset/comu5.webp") no-repeat center center/cover; 
     }
     .item4{
         grid-area: item4; 
-        background: url("./comu1.jpeg") no-repeat center center/cover; 
+        background: url("./asset/comu1.jpeg") no-repeat center center/cover; 
         
     }
     .item5{
         grid-area: item5; 
-        background: url("./comu6.jpeg") no-repeat center center/cover; 
+        background: url("./asset/comu6.jpeg") no-repeat center center/cover; 
         
     }
     .item6{
         grid-area: item6;
-        background: url("./gal1.jpeg") no-repeat center center/cover; 
+        background: url("./asset/gal1.jpeg") no-repeat center center/cover; 
          
         
     }
     .item7{
         grid-area: item7; 
-        background: url("./gal2.jpeg") no-repeat center center/cover; 
+        background: url("./asset/gal2.jpeg") no-repeat center center/cover; 
     }
     .item8{
         grid-area: item8; 
-        background: url("./gal3.jpeg") no-repeat center center/cover; 
+        background: url("./asset/gal3.jpeg") no-repeat center center/cover; 
         
     }
     .item9{
         grid-area: item9; 
-        background: url("./comu4.webp") no-repeat center center/cover; 
+        background: url("./asset/comu4.webp") no-repeat center center/cover; 
        
         
     }
@@ -207,16 +207,16 @@ background: #b2967d;
         transition-duration: 2s;
      }
     .team.column.first::after{
-        background: url("./team1.webp") no-repeat center center/cover; 
+        background: url("./asset/team1.webp") no-repeat center center/cover; 
     }
     .team.column.tw::after{
-        background: url("./team3.jpeg") no-repeat center center/cover; 
+        background: url("./asset/team3.jpeg") no-repeat center center/cover; 
     }
     .team.column.th::after{
-        background: url("./team4.webp") no-repeat center center/cover; 
+        background: url("./asset/team4.webp") no-repeat center center/cover; 
     }
     .team.column.f::after{
-        background: url("./manager.webp") no-repeat center center/cover; 
+        background: url("./asset/manager.webp") no-repeat center center/cover; 
     }
     .team.column:hover::after{
         left: 0;
